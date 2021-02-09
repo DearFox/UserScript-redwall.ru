@@ -6,8 +6,8 @@
 // @author       DearFox
 // @match        https://www.redwall.ru/*
 // @match        http://www.redwall.ru/*
-// @downloadUrl  https://github.com/DearFox/UserScript-redwall.ru/raw/main/redwall-ru-fix-css.user.js
-// @updateUrl    https://github.com/DearFox/UserScript-redwall.ru/raw/main/redwall-ru-fix-css.user.js
+// @downloadUrl  https://github.com/DearFox/UserScript-redwall.ru/raw/main/redwall_ru_fix_css.user.js
+// @updateUrl    https://github.com/DearFox/UserScript-redwall.ru/raw/main/redwall_ru_fix_css.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
